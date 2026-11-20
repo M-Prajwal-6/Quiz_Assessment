@@ -11,6 +11,7 @@ A responsive React quiz covering general knowledge, computer science, and JavaSc
 - Answer review and quiz retake
 - Responsive layout for desktop and mobile
 
+
 ## Run Locally
 
 Install Node.js, then clone the repository and install its dependencies:
@@ -42,3 +43,15 @@ Open the local URL printed by Vite, usually `http://localhost:5173/`. Keep the t
 6. To test automatic submission quickly, temporarily change `QUIZ_DURATION` in `src/App.jsx` to `5`; restore it to `10 * 60` afterward.
 
 Run `npm run build` to check the production build and `npm run lint` to check the source.
+
+
+Images : 
+
+<img width="787" height="599" alt="image" src="https://github.com/user-attachments/assets/7c6a8f45-7d00-44de-a84c-e274afdede6c" />
+
+<img width="1039" height="675" alt="image" src="https://github.com/user-attachments/assets/1d12765e-cd37-4b19-84c6-cc43ac667309" />
+
+<img width="942" height="709" alt="image" src="https://github.com/user-attachments/assets/8cc91201-2249-4cb4-80a1-fa4a72523818" />
+
+<img width="972" height="892" alt="image" src="https://github.com/user-attachments/assets/c72fe434-ed94-466b-83fc-dace274342d1" />
+
